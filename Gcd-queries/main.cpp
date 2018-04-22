@@ -1,3 +1,6 @@
+/*
+NITIN KUMAR
+*/
 #include <cmath>
 #include <cstdio>
 #include <vector>
